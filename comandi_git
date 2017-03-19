@@ -1,0 +1,10 @@
+Devi clonare il repository in locale su una cartella che vuoi tu..... e poi si il procedimento è lo stesso.... il branch di questo repository è master...
+
+quindi:
+spostati nella cartella che vuoi usare e dai:
+git clone https://github.com/OnosTeam/website_myonos.git
+cd website_myonos
+modifica un file
+git add *
+git commit -a -m "Initial commit "
+git push -u origin master
